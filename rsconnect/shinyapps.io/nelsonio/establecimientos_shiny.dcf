@@ -1,0 +1,10 @@
+name: establecimientos_shiny
+title:
+username:
+account: nelsonio
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1969289
+bundleId: 2922791
+url: https://nelsonio.shinyapps.io/establecimientos_shiny/
+when: 1585146607.04204
